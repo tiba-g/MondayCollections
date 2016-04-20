@@ -1,0 +1,5 @@
+C:\csprojects\MondayCollection\Task4Generic\bin\Debug\Task4Generic.exe.config
+C:\csprojects\MondayCollection\Task4Generic\bin\Debug\Task4Generic.exe
+C:\csprojects\MondayCollection\Task4Generic\bin\Debug\Task4Generic.pdb
+C:\csprojects\MondayCollection\Task4Generic\obj\Debug\Task4Generic.exe
+C:\csprojects\MondayCollection\Task4Generic\obj\Debug\Task4Generic.pdb

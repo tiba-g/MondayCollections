@@ -1,0 +1,5 @@
+C:\csprojects\MondayCollection\Task5LinkedList\bin\Debug\Task5LinkedList.exe.config
+C:\csprojects\MondayCollection\Task5LinkedList\bin\Debug\Task5LinkedList.exe
+C:\csprojects\MondayCollection\Task5LinkedList\bin\Debug\Task5LinkedList.pdb
+C:\csprojects\MondayCollection\Task5LinkedList\obj\Debug\Task5LinkedList.exe
+C:\csprojects\MondayCollection\Task5LinkedList\obj\Debug\Task5LinkedList.pdb

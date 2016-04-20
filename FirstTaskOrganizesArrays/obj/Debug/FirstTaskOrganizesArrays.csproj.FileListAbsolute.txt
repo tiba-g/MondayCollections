@@ -1,0 +1,5 @@
+C:\csprojects\MondayCollection\FirstTaskOrganizesArrays\bin\Debug\FirstTaskOrganizesArrays.exe.config
+C:\csprojects\MondayCollection\FirstTaskOrganizesArrays\bin\Debug\FirstTaskOrganizesArrays.exe
+C:\csprojects\MondayCollection\FirstTaskOrganizesArrays\bin\Debug\FirstTaskOrganizesArrays.pdb
+C:\csprojects\MondayCollection\FirstTaskOrganizesArrays\obj\Debug\FirstTaskOrganizesArrays.exe
+C:\csprojects\MondayCollection\FirstTaskOrganizesArrays\obj\Debug\FirstTaskOrganizesArrays.pdb

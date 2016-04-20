@@ -1,0 +1,5 @@
+C:\csprojects\MondayCollection\SeconTaskStack\bin\Debug\SeconTaskStack.exe.config
+C:\csprojects\MondayCollection\SeconTaskStack\bin\Debug\SeconTaskStack.exe
+C:\csprojects\MondayCollection\SeconTaskStack\bin\Debug\SeconTaskStack.pdb
+C:\csprojects\MondayCollection\SeconTaskStack\obj\Debug\SeconTaskStack.exe
+C:\csprojects\MondayCollection\SeconTaskStack\obj\Debug\SeconTaskStack.pdb

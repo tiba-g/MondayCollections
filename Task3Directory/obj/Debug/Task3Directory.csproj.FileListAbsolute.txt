@@ -1,0 +1,5 @@
+C:\csprojects\MondayCollection\Task3Directory\bin\Debug\Task3Directory.exe.config
+C:\csprojects\MondayCollection\Task3Directory\bin\Debug\Task3Directory.exe
+C:\csprojects\MondayCollection\Task3Directory\bin\Debug\Task3Directory.pdb
+C:\csprojects\MondayCollection\Task3Directory\obj\Debug\Task3Directory.exe
+C:\csprojects\MondayCollection\Task3Directory\obj\Debug\Task3Directory.pdb
